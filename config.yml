@@ -1,4 +1,4 @@
-baseURL: "http://taptiger.netlify.app"
+baseURL: "https://taptiger.netlify.app"
 title: TapTiger's Blog
 paginate: 8
 theme: hugo-PaperMod
