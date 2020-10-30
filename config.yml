@@ -1,5 +1,5 @@
 baseURL: "https://taptiger.netlify.app"
-title: TapTiger's Blog
+title: TapTiger
 paginate: 8
 theme: hugo-PaperMod
 enableInlineShortcodes: true
@@ -24,10 +24,10 @@ languages:
           url: /tags/
           weight: 10
 
-  l2:
-    languageName: "Gaeilge"
+  ga:
+    languageName: "🇮🇪"
     weight: 2
-    title: Blag TapTiger
+    title: TapTiger
     profileMode:
       enabled: true
       title: Fáilte!
@@ -66,7 +66,7 @@ params:
 
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog! I am building a game for Game Off 2020. Here's how I'm getting there.
+    Content: "Welcome to my blog! I am building a game for [Game Off 2020](https://itch.io/jam/game-off-2020). Here's how I'm getting there."
 
   socialIcons:
     - name: github
@@ -83,7 +83,7 @@ taxonomies:
 
 privacy:
   vimeo:
-    disabled: false
+    disabled: true
     simple: true
 
   twitter:
