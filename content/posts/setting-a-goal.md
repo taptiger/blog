@@ -16,11 +16,13 @@ My definition of rhythm game may differ from yours... Some clear examples are [A
 
 ### how big, and what does it look like when it's finished?
 
-Small. Wait... smol 🐱
+Small. Wait... **smol** 🐱
 
 Tiny, even.
 
 The absolute minimum would be that it has some form of input interface, and there exists a win state which is not the default state. I might have very slightly higher aspirations than that, but I have only given myself a month, and, well, my implementation experience is not _exactly_ extensive.
+
+When it's 'finished' for the purpose of this Game Off, it should be coherent and playable. That means I need to make time at the end to remove any extra, half-baked features. I should also be able to test it myself, which means using my own hardware and clients. What I have is a laptop browser and a phone, or if I'm feeling very experimental, I could try to get things working on a Nintendo Switch. No VR or other consoles available.
 
 ### how do I make it?
 
