@@ -66,7 +66,7 @@ params:
 
   homeInfoParams:
     Title: "Hi there \U0001F44B"
-    Content: "Welcome to my blog! I am building a game for [Game Off 2020](https://itch.io/jam/game-off-2020). Here's how I'm getting there."
+    Content: "Welcome to my blog for [Game Off 2020](https://itch.io/jam/game-off-2020)!\n\nAnnouncing... **TAPPY BOAT**! A musical adventure on the high seas. Bop 'til you drop, and don't lose your rhythm, the islanders are counting on you to send out the good tunes and bring back the good times! Build your boat and add new instruments to jam with your neighbours and strangers alike. Free the islands from their glum foggy doom."
 
   socialIcons:
     - name: github
