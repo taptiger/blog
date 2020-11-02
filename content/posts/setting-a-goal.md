@@ -2,6 +2,7 @@
 title: "Setting a Goal"
 date: 2020-10-30T23:55:04Z
 draft: false
+tags: ["tools"]
 ---
 
 So I want to make a game. What kind, how big, and what does it look like when it's finished? Equally important: how do I make it and where do I put it in the end?
